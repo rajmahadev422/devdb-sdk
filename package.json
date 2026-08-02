@@ -1,5 +1,5 @@
 {
-  "name": "devDB",
+  "name": "devdb-sdk",
   "version": "1.0.0",
   "description": "JavaScript SDK for local JSON DB server",
   "main": "src/index.js",
@@ -9,11 +9,11 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajmahadev422/devDB.git"
+    "url": "git+https://github.com/rajmahadev422/dev-db.git"
   },
-  "homepage": "https://github.com/rajmahadev422/devDB#readme",
+  "homepage": "https://github.com/rajmahadev422/dev-db#readme",
   "bugs": {
-    "url": "https://github.com/rajmahadev422/devDB/issues"
+    "url": "https://github.com/rajmahadev422/dev-db/issues"
   },
   "files": [
     "src",
