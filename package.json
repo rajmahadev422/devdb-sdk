@@ -1,0 +1,23 @@
+{
+  "name": "devDB",
+  "version": "1.0.0",
+  "description": "JavaScript SDK for local JSON DB server",
+  "main": "src/index.js",
+  "keywords": ["json-db", "devDB", "sdk", "database", "self-hosted"],
+  "author": "MAHADEV",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajmahadev422/devDB.git"
+  },
+  "homepage": "https://github.com/rajmahadev422/devDB#readme",
+  "bugs": {
+    "url": "https://github.com/rajmahadev422/devDB/issues"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
