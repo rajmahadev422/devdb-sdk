@@ -1,9 +1,15 @@
 {
   "name": "devdb-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript SDK for local JSON DB server",
   "main": "src/index.js",
-  "keywords": ["json-db", "devDB", "sdk", "database", "self-hosted"],
+  "keywords": [
+    "json-db",
+    "devDB",
+    "sdk",
+    "database",
+    "self-hosted"
+  ],
   "author": "MAHADEV",
   "license": "MIT",
   "type": "module",
