@@ -9,11 +9,11 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajmahadev422/dev-db.git"
+    "url": "git+https://github.com/rajmahadev422/devdb-sdk.git"
   },
-  "homepage": "https://github.com/rajmahadev422/dev-db#readme",
+  "homepage": "https://github.com/rajmahadev422/devdb-sdk#readme",
   "bugs": {
-    "url": "https://github.com/rajmahadev422/dev-db/issues"
+    "url": "https://github.com/rajmahadev422/devdb-sdk/issues"
   },
   "files": [
     "src",
